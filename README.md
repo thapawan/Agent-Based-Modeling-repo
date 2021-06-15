@@ -1,2 +1,2 @@
 # Agent-Based-Modeling-repo
-Includes agent based modeling
+This repository contains agent based model to determine the transmission of coronavirus
